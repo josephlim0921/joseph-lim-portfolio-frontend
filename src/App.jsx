@@ -84,7 +84,7 @@ function App() {
 
   const projects = [
     {
-      title: "Self Reflection Journalling App",
+      title: "Self Reflection Journaling App",
       link: "",
       media: "/videos/ai-chat-demo-silent.mp4",
       description:
